@@ -50,4 +50,4 @@ jobs:
           app-name: 'Aalian'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DF2AA4DC83B7487AB426C2C66A2B5222 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_41FF6D62A67D45F886259DA81A136986 }}
